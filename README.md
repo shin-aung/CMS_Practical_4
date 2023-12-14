@@ -9,7 +9,9 @@ In this learning activity, we'll explore the process of setting up WordPress on 
 
 **Activity 1: Setting Up XAMPP**
 
-Resource: Download XAMPP from the official website and wordpress
+Resource: Download XAMPP from the official website and wordpress 
+
+
 Link: XAMPP download: https://www.apachefriends.org/download.html
       Wordpresss download: https://wordpress.org/download/
 Procedure:
