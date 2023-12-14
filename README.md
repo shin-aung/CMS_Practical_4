@@ -11,9 +11,9 @@ In this learning activity, we'll explore the process of setting up WordPress on 
 
 Resource: Download XAMPP from the official website and wordpress 
 
-
 Link: XAMPP download: https://www.apachefriends.org/download.html
       Wordpresss download: https://wordpress.org/download/
+      
 Procedure:
 Follow the steps outlined in the downloaded XAMPP package to install it on your computer.
 Pay attention to any prompts or options during the installation process.
@@ -22,7 +22,9 @@ Pay attention to any prompts or options during the installation process.
 **Activity 2: WordPress Installation on XAMPP**
 
 Resource: Watch the YouTube video for setting up WordPress on XAMPP.
+
 Video Link: https://www.youtube.com/watch?v=UJ4YMxAFlz4
+
 Procedure:
 Follow the instructions in the YouTube video to install WordPress on your XAMPP server.
 Take note of any specific settings or configurations mentioned in the video.
@@ -31,8 +33,11 @@ Take note of any specific settings or configurations mentioned in the video.
 **Activity 3: Troubleshooting SQL Server Issues**
 
 Challenge: During my attempt, I faced a recurring issue where the SQL server would stop running every time I started it.
+
 Solution: Watch the second YouTube video for troubleshooting and resolving SQL server issues on XAMPP.
+
 Video Link: https://www.youtube.com/watch?v=ZjpolroSOpQ
+
 Procedure:
 Implement the steps suggested in the video to overcome SQL server problems.
 
